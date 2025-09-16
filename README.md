@@ -4,13 +4,13 @@ This project analyzes fruit sales data to create interactive visualizations with
 
 Finally, this report was created by attending the **Power BI Portfolio Projects with DAX & SQL (2025)** course on Udemy.
 
-##Installation Instructions
+## Installation Instructions
 
 1. Download the Fruits-Sales-PowerBI.pbix file from this repository.
 2. Open the file with the Microsoft Power BI Desktop application.
 3. Explore the dashboards and visualizations that have been created.
 
-##Instructions
+## Instructions
 
 - Use the dropdown filters (Customer Name, Brand Name, Category Name, Product Name, Store Name, Store Location) to filter data across all visualizations
 - Adjust the date range slider to analyze sales within specific time periods (currently set from 01/01/2023 to 22/01/2025)
@@ -21,7 +21,7 @@ Finally, this report was created by attending the **Power BI Portfolio Projects 
 - Monitor the Running Total by Date chart to track cumulative sales progression
 - Click on any chart element to cross-filter other dashboard components for deeper analysis
 
-##Key Features
+## Key Features
 
 - Time-based Analysis: Track sales performance across multiple years with detailed monthly breakdowns
 - Customer Performance: Identify both top and bottom performing customers for targeted strategies
