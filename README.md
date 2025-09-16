@@ -1,6 +1,7 @@
 # Fruits-Sales-Power-BI-Report
 
 This project analyzes fruit sales data to create interactive visualizations with Power BI. The .pbix file contains various charts, area graphs, and slicers to analyze sales performance across customers, stores, products, and time periods. The dashboard provides comprehensive insights into sales trends, top performing customers and stores, and year-to-date performance metrics.
+
 Finally, this report was created by attending the **Power BI Portfolio Projects with DAX & SQL (2025)** course on Udemy.
 
 ##Installation Instructions
